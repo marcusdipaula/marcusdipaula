@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcus Di Paula.
+I'm Marcus.
 
 - 🔭 I’m currently working on improving my knowledge of how to do CI/CD with Power BI in enterprise environments
 - 🌱 I’m currently learning about Lakehouse, Databricks, and Snowflake
