@@ -8,4 +8,4 @@ I'm Marcus.
 - 🤔 I’m looking for help with what I'm currently learning
 - 💬 Ask me about Business Intelligence, I'll be glad to help if I can
 - 📫 How to reach me: marcusdipaula@gmail.com
-- ⚡ Fun fact: I love tech, but also hiking 🚶‍♂️, play the guitar 🎸, and sunny days ☀️
+- ⚡ Fun fact: I love tech but also hiking 🚶‍♂️, playing a guitar 🎸, and sunny days ☀️
