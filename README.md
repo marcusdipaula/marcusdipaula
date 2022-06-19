@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcus.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Marcus!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on improving my knowledge of how to do CI/CD with Power BI in enterprise environments
 - 🌱 I’m currently learning about Lakehouse, Databricks, and Snowflake
