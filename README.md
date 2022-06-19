@@ -7,5 +7,5 @@ I'm Marcus.
 - 👯 I’m looking to collaborate on whatever I may be helpful
 - 🤔 I’m looking for help with what I'm currently learning
 - 💬 Ask me about Business Intelligence, I'll be glad to help if I can
-- 📫 How to reach me: marcusdipaula@gmail.com
-- ⚡ Fun fact: I love tech but also hiking 🚶‍♂️, playing a guitar 🎸, and sunny days ☀️
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marcusdipaula/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+- ⚡ Fun fact: I love tech but also hiking 🚶‍♂️, playing the guitar 🎸, and sunny days ☀️
