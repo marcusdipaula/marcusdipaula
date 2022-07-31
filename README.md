@@ -12,7 +12,7 @@
 ---
 
 ### I use
-[![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### I'm learning
 [![My Skills](https://skillicons.dev/icons?i=nodejs,cs,redis,fastapi)](https://skillicons.dev)
