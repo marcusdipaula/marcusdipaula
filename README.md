@@ -16,3 +16,7 @@
 
 ### I'm also learning
 [![My Skills](https://skillicons.dev/icons?i=nodejs,cs,redis,fastapi)](https://skillicons.dev)
+
+---
+
+![](https://komarev.com/ghpvc/?username=marcusdipaula)
