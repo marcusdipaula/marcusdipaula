@@ -11,10 +11,10 @@
 
 ---
 
-### Some of the tools I use
+### Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mongodb,mysql,postgres)](https://skillicons.dev)
 
-### Some of the tools I'm also learning
+### Some tools I'm learning
 [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,cs,redis,fastapi)](https://skillicons.dev)
 
 ---
