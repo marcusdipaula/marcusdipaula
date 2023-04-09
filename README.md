@@ -12,10 +12,10 @@
 ---
 
 ### Some tools I use
-[![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mysql)](https://skillicons.dev)
 
 ### Some tools I'm learning
-[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,cs,redis,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,js,cs,redis,postman)](https://skillicons.dev)
 
 ---
 
