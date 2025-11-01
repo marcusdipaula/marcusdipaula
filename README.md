@@ -13,10 +13,11 @@
 
 ### Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=azure,linux,py,r,regex,vscode,visualstudio,github,mysql)](https://skillicons.dev)
+<!--
 
 ### Some tools I'm learning
 [![My Skills](https://skillicons.dev/icons?i=docker,js,cs,redis,postman)](https://skillicons.dev)
-
+-->
 ---
 
 ![](https://komarev.com/ghpvc/?username=marcusdipaula)
